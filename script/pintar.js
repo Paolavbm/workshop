@@ -13,7 +13,7 @@ export const pintar = async(card, element) => {
            <h6 class= "d-inline-block">Capital:</h6> <p class="d-inline-block">${capital}</p> <br> 
            <h6 class= "d-inline-block">Población:</h6><p class="d-inline-block">${poblacion}</p> <br>
            <h6 class= "d-inline-block">Region:</h6><p class="d-inline-block">${region}</p><br>
-           <button id='${id}' class='btn btn-outline-primary boton'>agregar al carrito</button>
+           <button id='${id}' class='btn btn-outline-primary boton'>Detalle</button>
         </div> 
         </div> </a>
       </div>  `

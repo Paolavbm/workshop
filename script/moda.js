@@ -22,7 +22,7 @@ export const mostrarModal = async (id) => {
      <h3> $${data.presidente}</h3>
      <p>${data.plato}</p>
        <center>
-         <button id='${data.id}' class='btn btn-outline-primary boton'>agregar al carrito</button>
+         <button id='${data.id}' class='btn btn-outline-primary boton'>Detalle</button>
        </center>
      </div>
  </div>
