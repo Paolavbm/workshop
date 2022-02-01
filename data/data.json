@@ -1,0 +1,112 @@
+{
+    "paises": [
+      {
+        "id": 1,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+        "nombre": "Japon",
+        "capital": "Tokio",
+        "poblacion": "125,8 millones (2020)",
+        "region": "Asia",
+        "Idioma": "Japones",
+        "presidente": "Shinzō Abe",
+        "plato": "Ramen"
+      },
+      {
+        "id": 2,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+        "nombre": "Rusia",
+        "capital": "Moscú",
+        "poblacion": "142,3 millones de habitantes",
+        "region": "Europa",
+        "Idioma": "ruso",
+        "presidente": "Vladímir Putin",
+        "plato": "Pelmeni"
+      },
+      {
+        "id": 3,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/800px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "nombre": "República Popular China",
+        "capital": "Pekin",
+        "poblacion": "población de 1.411.780.000",
+        "region": "Asia",
+        "Idioma": "Mandarín",
+        "presidente": "Xi Jinping",
+        "plato": "El pato Pekinés"
+      },
+      {
+        "id": 4,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+        "nombre": "Italia",
+        "capital": "Roma",
+        "poblacion": "59.257.566 personas",
+        "region": "Europa",
+        "Idioma": "Italiano",
+        "presidente": "Sergio Mattarella",
+        "plato": "Pizza"
+      },
+      {"id": 5,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+        "nombre": "Corea del Sur",
+        "capital": "Seúl",
+        "poblacion": "51,78 millones (2020)",
+        "region": "Asia",
+        "Idioma": "Coreano",
+        "presidente": "Moon Jae-in",
+        "plato": "Bibimbap"
+      },
+      {
+        "id": 6,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+        "nombre": "Estados Unidos",
+        "capital": "Washington D. C.",
+        "poblacion": "329,5 millones (2020)",
+        "region": "America",
+        "Idioma": "Ingles",
+        "presidente": "Joe Biden",
+        "plato": "Lobster roll"
+      },
+      {
+        "id": 7,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png",
+        "nombre": "Noruega",
+        "capital": "Oslo",
+        "poblacion": "5,379 millones (2020)",
+        "region": "Europa",
+        "Idioma": "Noruego",
+        "presidente": "Erna Solberg",
+        "plato": "Crema noruega de salmón ahumado"
+      },
+      {
+        "id": 8,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+        "nombre": "Inglaterra",
+        "capital": "Londres",
+        "poblacion": "55,98 millones (2018)",
+        "region": "Europa",
+        "Idioma": "Inglaterra",
+        "presidente": "Boris Johnson",
+        "plato": "Fish and Chips (pescado y patatas)"
+      },
+      {
+        "id": 9,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1200px-Flag_of_Venezuela.svg.png",
+        "nombre": "Venezuela",
+        "capital": "Caracas",
+        "poblacion": "28,44 millones (2020)",
+        "region": "America",
+        "Idioma": "Español",
+        "presidente": "Nicolas Maduro" ,
+        "plato": "Hayaca"
+      },
+      {"id": 10,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+        "nombre": "Brasil",
+        "capital": "Brasilia",
+        "poblacion": "212,6 millones (2020)",
+        "region": "America",
+        "Idioma": "Portugués",
+        "presidente": "Jair Bolsonaro",
+        "plato": "Acarajé"
+      }
+    ]
+  }
